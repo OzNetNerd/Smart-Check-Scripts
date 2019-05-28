@@ -10,4 +10,4 @@ The scripts in this repo utilise Smart Check's API. The Swagger docs can be [fou
 
 # Script Index
 
-* **[authentication-demo](/tree/master/authentication-demo)**: Demonstrates how to authenticate against Smart Check and make API calls, e.g `/api/sessions` (as documented [here](https://automation.deepsecurity.trendmicro.com/article/11_1/smart-check-api-reference?platform=on-premise#operation/listSessions)).
+* **[authentication-demo](/authentication-demo)**: Demonstrates how to authenticate against Smart Check and make API calls, e.g `/api/sessions` (as documented [here](https://automation.deepsecurity.trendmicro.com/article/11_1/smart-check-api-reference?platform=on-premise#operation/listSessions)).
